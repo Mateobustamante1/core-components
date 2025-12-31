@@ -1,32 +1,35 @@
 # Core Components
 
-Biblioteca de componentes React de alta calidad con TypeScript y Storybook.
+High-quality React component library built with TypeScript and Storybook.
 
-## 🚀 Características
+## 🚀 Features
 
-- ⚡ Componentes optimizados y reutilizables
-- 📘 Documentación completa con Storybook
-- 🔷 TypeScript para type safety
-- 🎨 Diseño moderno y accesible
-- 📦 Fácil de integrar en cualquier proyecto React
+- ⚡ Optimized and reusable components
+- 📘 Complete documentation with Storybook
+- 🔷 TypeScript for type safety
+- 🎨 Modern and accessible design
+- 📦 Easy to integrate into any React project
 
-## 📦 Instalación
+## 📦 Installation
 
 ```bash
 npm install
 ```
 
-## 🛠️ Desarrollo
+## 🛠️ Development
 
 ```bash
-# Iniciar Storybook
+# Start Storybook
 npm run storybook
 
-# Build del proyecto
+# Build project
 npm run build
+
+# Type check
+npm run type-check
 ```
 
-## 📚 Componentes Disponibles
+## 📚 Available Components
 
-Los componentes estarán disponibles próximamente...
+Components will be available soon...
 

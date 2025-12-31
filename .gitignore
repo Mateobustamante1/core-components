@@ -9,6 +9,7 @@ node_modules/
 # Production
 /build
 /dist
+/.storybook-static
 
 # Misc
 .DS_Store
@@ -28,3 +29,5 @@ yarn-error.log*
 *.swo
 *~
 
+# Storybook
+storybook-static

@@ -15,7 +15,7 @@ export interface BadgeProps {
    */
   children: React.ReactNode;
   /**
-   * Additional CSS class name
+   * Additional CSS class name for custom styling
    */
   className?: string;
 }
